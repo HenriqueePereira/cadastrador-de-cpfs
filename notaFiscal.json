@@ -1,0 +1,21 @@
+{
+
+    "numeroDaNota": "08638783",
+    "cnpjEmissor": "230.548.0001-01",
+    "listaDeProdutos": [
+        {
+            "nome": "Camisa do Corinthians",
+            "preco": 200
+        },
+        {
+            "nome": "Polo Nike",
+            "preco": 150
+        },
+        {
+            "nome": "Camisa Puma",
+            "preco": 100
+        }
+    ],
+    "valorTotal": 450
+    
+}

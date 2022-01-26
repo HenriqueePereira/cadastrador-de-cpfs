@@ -15,3 +15,5 @@ pessoas.push(pessoa);
 // Passo 4: Salvar o array de pessoas no arquivo pessoas.json
 fs.writeFileSync("pessoas.json", JSON.stringify(pessoa, null, 4))
 // Passo 5: Mostrar o array de pessoas no dormarto de tabela
+
+console.log("Olá")
